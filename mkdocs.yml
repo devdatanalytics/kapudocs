@@ -1,0 +1,37 @@
+site_name: KaPU App
+
+site_url: hhttps://devdatanalytics.github.io/kapudocs/
+theme:
+  name: material
+  font: 
+    text: Merriweather Sans
+    code: Red Hat Mono
+  
+  logo: assets/poultry.png
+  favicon: assets/chick.png
+  features:
+    - navigation.footer
+  palette:
+    # Dark Mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Dark mode
+      primary: amber
+      accent: lime
+
+    # Light Mode
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Light mode
+      primary: green
+      accent: light blue
+
+markdown_extensions:
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+copyright: Copyright &copy; 2025 DevData Analytics Ltd
