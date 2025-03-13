@@ -1,6 +1,6 @@
 site_name: KaPU App
 
-site_url: hhttps://devdatanalytics.github.io/kapudocs/
+site_url: https://devdatanalytics.github.io/kapudocs/
 theme:
   name: material
   font: 
