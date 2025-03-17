@@ -2,7 +2,7 @@
 
 ### Development of KaPU Edu
 KaPU Edu consists of two Retrieval-Augmented Generation (RAG) applications, an English and Kiswahili chatbots.
-Each is a chatbot assists farmers by answering questions related to poultry diseases in Englisha and Kiswahili language.
+Each is a chatbot that assists farmers by answering questions related to poultry diseases in English and Kiswahili language.
 The KaPU Edu chatbot leverages a custome prompt, a large language model (LLM), and an API to provide accurate and context-specific responses.
 
 Both the Englisth RAG and Kiswahili RAG combine retrieval-based and generative AI techniques to provide accurate and context-aware responses. RAG apps use a predefined knowledge base on poultry diseases and poultry farm management practices in English and Kiswahili languages. Custom prompts ensure the chatbots respond only to relevant queries.
