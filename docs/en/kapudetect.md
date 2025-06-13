@@ -9,7 +9,7 @@ KaPU Detect is an end to end tool that uses Artificial Intelligence (AI) for ear
 The figure below indicates the chicken droppings images for Coccidiosis, Newcastle and Salmonella diseases and Healthy chicken.
 
 <figure>
-    <img src ="/kapudocs/en/assets/fecal.png" alt="droppings" style="width:60%">
+    <img src ="/kapudocs/assets/fecal.png" alt="droppings" style="width:60%">
     <figcaption>Healthy and diseased chicken droppings images</figcaption>
 </figure>
 
