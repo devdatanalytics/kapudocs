@@ -6,7 +6,8 @@ theme:
   font: 
     text: Merriweather Sans
     code: Red Hat Mono
-  
+  docs_dir: docs       # Your docs folder
+  site_dir: site       # Default output folder
   logo: assets/poultry.png
   favicon: assets/chick.png
   features:
