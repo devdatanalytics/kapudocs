@@ -2,7 +2,7 @@
 
 <figure>
     <a href="https://rb.gy/llh9x2" target="_blank">
-    <img src ="docs/assets/circle.png" alt="KaPU App" style="width:60%">
+    <img src ="/kapudocs/assets/circle.png" alt="KaPU App" style="width:60%">
     </a>
     <figcaption><b>Karibu katika Programu ya KaPU </b></figcaption>
     <figcaption><b>Dhibiti Takwimu zako, Boresha Uzalishaji</b></figcaption>
